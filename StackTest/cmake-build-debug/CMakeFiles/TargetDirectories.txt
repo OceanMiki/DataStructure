@@ -1,0 +1,3 @@
+D:/CLionProjects/StackTest/cmake-build-debug/CMakeFiles/StackTest.dir
+D:/CLionProjects/StackTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/StackTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
